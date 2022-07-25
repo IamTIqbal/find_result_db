@@ -1,260 +1,58 @@
-/* Font Definitions */
-@font-face
-{font-family:"Cambria Math";
-panose-1:2 4 5 3 5 4 6 3 2 4;
-}
-@font-face
-{font-family:Calibri;
-panose-1:2 15 5 2 2 2 4 3 2 4;}
 /*Print*/
 @media print {
-.hprint {
-  display: none !important;
-}
-}
-/* Style Definitions */
-@media screen and (min-width: 800px) { /*The following CSS runs only for displays with a width (in pixels) of more than 800px*/
-body {
-    background-color: #ffffff);
-}
+	.hprint {
+	  display: none !important;
+	}
+  }
+ /* Style Definitions */
+ @media screen and (min-width: 800px) { /*The following CSS runs only for displays with a width (in pixels) of more than 800px*/
+    body {
+        background-color: #ffffff;
+    }
 }
 
 @media screen and (max-width: 800px) { /*The following CSS runs only for displays with a width (in pixels) of less than 800px*/
-body {
-    background-color: #ffffff;
+    body {
+        background-color: #ffffff;
+    }
 }
-}
-p.iqbal, li.iqbal, div.iqbal
-{
-margin-right:0in;
-margin-bottom:8.0pt;
-margin-left:0in;
-line-height:107%;
-font-size:11.0pt;
-font-family:"Calibri",sans-serif;}
+ p, li, div
+	{
+	margin-right:0in;
+	margin-bottom:8.0pt;
+	margin-left:0in;
+	line-height:normal;
+	font-size:12.0pt;
+	}
 a:visited, span.tilinkFollowed
-{
-color:.954F72;
-text-decoration:underline;
-text-underline:single;}
-span.SpellE
-{mso-style-name:"";
-mso-spl-e:yes;}
-.aiitDefault{
-font-family:"Calibri",sans-serif;}
-.aiitpapDefault{
-margin-bottom:8.0pt;
-line-height:107%;}
-@page aiitsection1
-{
-margin:0in 0in 0in 0in;}
-div.aiitsection1
-{page:aiitsection1;}
+	{
+	color:.954F72;
+	text-decoration:underline;
+	text-underline:single;}
+@page iqbal101
+	{
+	margin:0in 0in 0in 0in;}
+div.iqbal101
+	{page:iqbal101;}
 
-/* Style Definitions */
-table.iqbalTable{
-font-size:11.0pt;
-font-family:"Calibri",sans-serif;
+ /* Style Definitions */
+ body{
+	text-align: justify;
+	line-height:normal;
+	font-size:11.0pt;
+	font-family:"Times New Roman",serif;
 }
-table.iqbalTable{ 
-width:auto;
-max-height: 29cm;
-border:none;
-font-size:11.0pt;
-font-family:"Calibri",sans-serif;
-}
-.tiqbalTable{
-width:588.0pt;
-margin-left:13.25pt;
-border-collapse:collapse;
-border:none;
-}
-.td-gpa {
-width:55.6pt;
-border-top:none;
-border-left:none;
-border-bottom:none;
-border-right:none;
-padding:0in 5.4pt 0in 5.4pt;
-height:14.35pt;
-}
-.iqbal{
-margin-bottom:0in;
-line-height:normal;
-}
-td, .custom-p{
-margin-bottom:0in;
-text-align:center;
-line-height:normal;
-}
-.span-101{
-font-size:14.0pt;
-font-family:"Times New Roman",serif;
-}
-.span-102{
-font-size:10.5pt;
-font-family:"Times New Roman",serif;
-}
-.span-103{
-font-size:12.0pt;
-font-family:"Times New Roman",serif;
-}
-.td-101{
-width:45.0pt;
-border-top: none;
-border-left: none;
-border-bottom: none;
-border-right: none;
-padding:0in 5.4pt 0in 5.4pt;
-height:14.35pt;
-}
-.id-101{
-width:27.25pt;
-border-top: none;
-border-left: none;
-border-bottom: none;
-border-right: none;
-padding:0in 5.4pt 0in 5.4pt;
-height:14.35pt;
-}
-.span-3768{
-font-family:"Times New Roman",serif;
-}
-.span-72{
-width:.75in;
-border-top: none;
-border-left: none;
-border-bottom: none;
-border-right: none;
-border-bottom:padding:0in 5.4pt 0in 5.4pt;
-height:14.35pt;
-}
-.span-675{
-width:40.5pt;
-border-top: none;
-border-left: none;
-border-bottom: none;
-border-right: none;
-border-bottom:padding:0in 5.4pt 0in 5.4pt;
-height:14.35pt;
-}
-.span-175{
-width:.75in;
-border-top: none;
-border-left: none;
-border-bottom: none;
-border-right: none;
-padding:0in 5.4pt 0in 5.4pt;
-height:14.35pt;
-}
-.grd{
-width:44.6pt;
-border-top:none;
-border-left:none;
-padding:0in 5.4pt 0in 5.4pt;
-height:14.35pt;
-}
-.span-999, .sub-999{
-width:153.0pt;
-border-top: none;
-border-left: none;
-border-bottom: none;
-border-right: none;
-padding:0in 5.4pt 0in 5.4pt;
-height:14.35pt;
-}
-.id-888{
-width:27.25pt;
-border:none;
-border-top: none;
-border-left: none;
-border-bottom: none;
-border-right: none;
-padding:0in 5.4pt 0in 5.4pt;
-height:14.35pt;
-}
-.sl-101{
-width:27.25pt;
-border:none;
-border-top: none;
-border-left: none;
-border-bottom: none;
-border-right: none;
-padding:0in 5.4pt 0in 5.4pt;
-height:14.35pt;
-}
-.c123{
-width:153.0pt;
-border-top: none;
-border-left: none;
-border-bottom: none;
-border-right: none;
-padding:0in 5.4pt 0in 5.4pt;
-height:14.35pt;
-}
-.gpa-avg{
-width:56.95pt;
-border-top: none;
-border-left: none;
-border-bottom: none;
-border-right: none;
-padding:0in 5.4pt 0in 5.4pt;
-height:14.35pt;
-}
-.remarks{
-width:57.1pt;
-border-top: none;
-border-left: none;
-border-bottom: none;
-border-right: none;
-border-bottom:padding:0in 5.4pt 0in 5.4pt;
-height:14.35pt;
-}
-.pass-fail{
-width:57.1pt;
-border-top: none;
-border-left: none;
-border-bottom: none;
-border-right: none;
-border-bottom:padding:0in 5.4pt 0in 5.4pt;
-height:14.35pt;
-}
-.un-998{
-width:588.0pt;
-border:none;
-padding:0in 5.4pt 0in 5.4pt;
-height:29.2pt;
-}
-.un-997{
-width:191.1pt;
-border:none;
-padding:0in 5.4pt 0in 5.4pt;
-height:14.35pt;
-}
-.un-996{
-width:169.65pt;
-border:none;
-padding:0in 5.4pt 0in 5.4pt;
-height:14.35pt;
-}
-.un-995{
-width:227.25pt;
-border:none;
-padding:0in 5.4pt 0in 5.4pt;
-height:14.35pt;
-}
-.footer{
-width:588.0pt;
-border:none;
-padding:0in 5.4pt 0in 5.4pt;
-height:14.35pt;
-}
-.grd-101{
-width: 55.6pt;
-border-top: none;
-border-left: none;
-border-bottom: none;
-border-right: none;
-padding: 0in 5.4pt 0in 5.4pt;
-height: 14.35pt;
+table.iqbalTable101
+	{
+		width:auto;
+		max-height: 29cm;
+		border:none;
+		border-collapse:collapse;
+	}
+td{
+	border:none;
+	text-align:center;
+	line-height:normal;
+	padding:0in 5.4pt 0in 5.4pt;
+	height:14.35pt;
 }
